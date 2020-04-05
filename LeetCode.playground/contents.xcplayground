@@ -10,6 +10,7 @@
         <page name='RotateArray'/>
         <page name='SingleNumber'/>
         <page name='TwoSum'/>
-        <page name='MoveZeros'/>
+        <page name='MoveZeroes'/>
+        <page name='MergeSortedArray '/>
     </pages>
 </playground>
