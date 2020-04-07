@@ -12,5 +12,6 @@
         <page name='TwoSum'/>
         <page name='MoveZeroes'/>
         <page name='MergeSortedArray '/>
+        <page name='MaxOnesSeparatedByZero'/>
     </pages>
 </playground>
