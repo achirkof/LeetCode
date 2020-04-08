@@ -13,5 +13,6 @@
         <page name='MoveZeroes'/>
         <page name='MergeSortedArray '/>
         <page name='MaxOnesSeparatedByZero'/>
+        <page name='FirstBadVersion'/>
     </pages>
 </playground>
