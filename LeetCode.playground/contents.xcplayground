@@ -14,5 +14,6 @@
         <page name='MergeSortedArray '/>
         <page name='MaxOnesSeparatedByZero'/>
         <page name='FirstBadVersion'/>
+        <page name='ValidSudoku'/>
     </pages>
 </playground>
