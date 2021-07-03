@@ -15,5 +15,6 @@
         <page name='MaxOnesSeparatedByZero'/>
         <page name='FirstBadVersion'/>
         <page name='ValidSudoku'/>
+        <page name='RotateImage'/>
     </pages>
 </playground>
