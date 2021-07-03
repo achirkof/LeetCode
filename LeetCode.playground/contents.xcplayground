@@ -17,5 +17,6 @@
         <page name='ValidSudoku'/>
         <page name='RotateImage'/>
         <page name='ReverseString'/>
+        <page name='ReverseInteger'/>
     </pages>
 </playground>
