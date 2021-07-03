@@ -16,5 +16,6 @@
         <page name='FirstBadVersion'/>
         <page name='ValidSudoku'/>
         <page name='RotateImage'/>
+        <page name='ReverseString'/>
     </pages>
 </playground>
