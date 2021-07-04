@@ -19,5 +19,6 @@
         <page name='ReverseString'/>
         <page name='ReverseInteger'/>
         <page name='FirstUniqueCharacter'/>
+        <page name='ValidAnagram'/>
     </pages>
 </playground>
