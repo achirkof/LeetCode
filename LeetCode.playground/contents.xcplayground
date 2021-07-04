@@ -18,5 +18,6 @@
         <page name='RotateImage'/>
         <page name='ReverseString'/>
         <page name='ReverseInteger'/>
+        <page name='FirstUniqueCharacter'/>
     </pages>
 </playground>
