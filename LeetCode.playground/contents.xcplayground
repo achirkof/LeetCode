@@ -20,5 +20,6 @@
         <page name='ReverseInteger'/>
         <page name='FirstUniqueCharacter'/>
         <page name='ValidAnagram'/>
+        <page name='ValidPalindrome'/>
     </pages>
 </playground>
