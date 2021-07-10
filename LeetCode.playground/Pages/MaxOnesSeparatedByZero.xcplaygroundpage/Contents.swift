@@ -51,7 +51,7 @@ func maxOnes(array: [Int]) -> Int {
                 idxRight += 1
             }
 
-            // summ left and right count
+            // sum left and right count
             onesRows.append(leftCount + rightCount)
             leftCount = 0
             rightCount = 0
@@ -61,4 +61,4 @@ func maxOnes(array: [Int]) -> Int {
     return onesRows.max() ?? 0
 }
 
-maxOnes(array: array1)
+maxOnes(array: array)

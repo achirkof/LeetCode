@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios'>
     <pages>
-        <page name='BestTimeToBuyAndSellStockII'/>
-        <page name='ContainsDuplicate'/>
-        <page name='IntersectionOfTwoArraysII'/>
-        <page name='PlusOne'/>
-        <page name='RemoveDublicates'/>
-        <page name='RemoveDublicatesWithDoubles'/>
-        <page name='RotateArray'/>
-        <page name='SingleNumber'/>
-        <page name='TwoSum'/>
-        <page name='MoveZeroes'/>
-        <page name='MergeSortedArray '/>
+        <page name='122 - BestTimeToBuyAndSellStockII'/>
+        <page name='217 - ContainsDuplicate'/>
+        <page name='350 - IntersectionOfTwoArraysII'/>
+        <page name='66 - PlusOne'/>
+        <page name='26 - RemoveDublicates'/>
+        <page name='80 - RemoveDublicatesWithDoubles'/>
+        <page name='189 - RotateArray'/>
+        <page name='136 - SingleNumber'/>
+        <page name='1 - TwoSum'/>
+        <page name='283 - MoveZeroes'/>
+        <page name='88 - MergeSortedArray '/>
         <page name='MaxOnesSeparatedByZero'/>
-        <page name='FirstBadVersion'/>
-        <page name='ValidSudoku'/>
-        <page name='RotateImage'/>
-        <page name='ReverseString'/>
-        <page name='ReverseInteger'/>
-        <page name='FirstUniqueCharacter'/>
-        <page name='ValidAnagram'/>
-        <page name='ValidPalindrome'/>
-        <page name='StringToInteger'/>
-        <page name='ImplementStrStr'/>
+        <page name='278 - FirstBadVersion'/>
+        <page name='36 - ValidSudoku'/>
+        <page name='48 - RotateImage'/>
+        <page name='344 - ReverseString'/>
+        <page name='7 - ReverseInteger'/>
+        <page name='387 - FirstUniqueCharacter'/>
+        <page name='242 - ValidAnagram'/>
+        <page name='125 - ValidPalindrome'/>
+        <page name='8 - StringToInteger(atoi)'/>
+        <page name='28 - ImplementStrStr'/>
+        <page name='14 - LongestCommonPrefix'/>
     </pages>
 </playground>
