@@ -22,5 +22,6 @@
         <page name='ValidAnagram'/>
         <page name='ValidPalindrome'/>
         <page name='StringToInteger'/>
+        <page name='ImplementStrStr'/>
     </pages>
 </playground>
