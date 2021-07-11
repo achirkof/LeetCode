@@ -28,5 +28,6 @@
         <page name='412 - FIzzBuzz'/>
         <page name='204 - CountPrimes'/>
         <page name='326 - PowerOfThree'/>
+        <page name='13 - Roman to Integer'/>
     </pages>
 </playground>
