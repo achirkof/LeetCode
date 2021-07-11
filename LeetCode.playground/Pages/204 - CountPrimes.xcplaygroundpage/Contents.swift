@@ -17,27 +17,28 @@ import Foundation
  Output: 0
  */
 
+/*
+ Решето Эратосфена
+ */
+
 func countPrimes(_ n: Int) -> Int {
-    var counter = 0
-    if n <= 1 { return counter }
+    var count = 0
+    if n <= 1 { return count }
+
+    var isPrime = Array(repeating: true, count: n)
 
     for i in 2 ..< n {
-        var j = 1
-        var dividers = 0
-        while j <= i {
-            if i % j == 0 {
-                dividers += 1
+        if isPrime[i] {
+            count += 1
+            var j = i
+            while j + i < n {
+                isPrime[j + i] = false
+                j += i
             }
-
-            j += 1
-        }
-
-        if dividers == 2 {
-            counter += 1
         }
     }
 
-    return counter
+    return count
 }
 
 countPrimes(10)
