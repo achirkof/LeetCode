@@ -27,5 +27,6 @@
         <page name='38 - CountAndSay'/>
         <page name='412 - FIzzBuzz'/>
         <page name='204 - CountPrimes'/>
+        <page name='326 - PowerOfThree'/>
     </pages>
 </playground>
