@@ -26,5 +26,6 @@
         <page name='14 - LongestCommonPrefix'/>
         <page name='38 - CountAndSay'/>
         <page name='412 - FIzzBuzz'/>
+        <page name='204 - CountPrimes'/>
     </pages>
 </playground>
