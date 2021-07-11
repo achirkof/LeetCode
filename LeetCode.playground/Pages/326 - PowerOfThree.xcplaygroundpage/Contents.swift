@@ -22,14 +22,8 @@ import Foundation
  */
 
 func isPowerOfThree(_ n: Int) -> Bool {
-    if n == 0 { return false }
-
-    var i = n
-    while i % 3 == 0 {
-        i = i / 3
-    }
-
-    return i == 1
+    let maxNum = pow(3, Int((log(Double(Int32.max))/log(3.0)).rounded(.towardZero)))
+    return n > 0 && (maxNum as NSDecimalNumber).intValue % n == 0
 }
 
 isPowerOfThree(81)
