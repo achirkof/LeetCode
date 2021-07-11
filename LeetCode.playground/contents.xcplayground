@@ -24,5 +24,6 @@
         <page name='8 - StringToInteger(atoi)'/>
         <page name='28 - ImplementStrStr'/>
         <page name='14 - LongestCommonPrefix'/>
+        <page name='38 - CountAndSay'/>
     </pages>
 </playground>
