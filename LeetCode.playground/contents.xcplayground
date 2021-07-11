@@ -25,5 +25,6 @@
         <page name='28 - ImplementStrStr'/>
         <page name='14 - LongestCommonPrefix'/>
         <page name='38 - CountAndSay'/>
+        <page name='412 - FIzzBuzz'/>
     </pages>
 </playground>
