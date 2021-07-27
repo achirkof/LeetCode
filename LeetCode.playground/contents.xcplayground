@@ -11,7 +11,6 @@
         <page name='136 - SingleNumber'/>
         <page name='1 - TwoSum'/>
         <page name='283 - MoveZeroes'/>
-        <page name='88 - MergeSortedArray '/>
         <page name='MaxOnesSeparatedByZero'/>
         <page name='278 - FirstBadVersion'/>
         <page name='36 - ValidSudoku'/>
@@ -29,5 +28,7 @@
         <page name='204 - CountPrimes'/>
         <page name='326 - PowerOfThree'/>
         <page name='13 - Roman to Integer'/>
+        <page name='4. Median of Two Sorted Arrays'/>
+        <page name='88. Merge Sorted Array'/>
     </pages>
 </playground>
